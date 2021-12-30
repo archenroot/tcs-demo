@@ -1,2 +1,2 @@
-def ErrorHospitel(string):
+def ErrorHospitel(string, month: str):
     return ''
