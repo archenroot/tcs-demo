@@ -1,0 +1,2 @@
+def ErrorHospitel(string):
+    return ''
